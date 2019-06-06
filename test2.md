@@ -48,6 +48,8 @@ Address: No. 99 Shangda Road, Shanghai, China
 **Host: Asian Demographic Research Institute (ADRI), Shanghai University**<br>
 **Tutor: Guy Abel**<br>
 
+![](https://github.com/Xushuqiang1995/R/blob/master/1559811924(1).png)<br>
+
 This workshop has two parts. The first part focuses on the introduction of the R statistical language for handling, investigating and displaying demographic data. The second part, organized by the IUSSP Scientific Panel on [International Migration: Strengthening the Knowledge Base for Policy](https://iussp.org/en/panel/international-migration-strengthening-knowledge-base-policy) explores methods for estimating migration, their implementation in R and visualizing migration patterns. Participants may attend only the second part if they are already familiar with R.<br>
 Upon completion of the workshop, participants will be familiar with the R environment, its basic functions and more advanced methods from some of the most popular R packages for importing, manipulating and visualizing data. They will also have accustomed to common strategies used to estimate migration and visualize patterns.<br>
 
@@ -77,7 +79,8 @@ Address: No. 99 Shangda Road, Shanghai, China<br>
 **Dates: Oct. 13-17, 2019, Shanghai, China**<br>
 **Host: Asian Demographic Research Institute (ADRI), Shanghai University**<br>
 **Tutor: Samir KC**<br>
-![](https://github.com/Xushuqiang1995/R/blob/master/dc988dc26ee63d7e4d58c48395caf49.jpg)
+
+![](https://github.com/Xushuqiang1995/R/blob/master/2c69afea14cedc96ab475ad67ef8f87.jpg)<br>
 
 
 In this workshop, we will use examples from the global population to sub-national projection. We will use Excel-VBA and R during the course.<br>
