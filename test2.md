@@ -80,7 +80,7 @@ Address: No. 99 Shangda Road, Shanghai, China<br>
 **Host: Asian Demographic Research Institute (ADRI), Shanghai University**<br>
 **Tutor: Samir KC**<br>
 
-![](https://github.com/Xushuqiang1995/R/blob/master/2c69afea14cedc96ab475ad67ef8f87.jpg)<br>
+![](https://github.com/Xushuqiang1995/R/blob/master/1559812186(1).png)<br>
 
 
 In this workshop, we will use examples from the global population to sub-national projection. We will use Excel-VBA and R during the course.<br>
