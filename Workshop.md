@@ -59,12 +59,13 @@ Practical hands-on exercises will be emphasized throughout the workshop to build
 Participants will gain experience in each of these areas through lectures interspersed with practical computing exercises. Besides the experience of handling data using statistical software, participants should also have a basic knowledge of demography, mathematics, and statistics
 
 References
-Abel, Guy J., Bilal Barakat, Samir KC, and Wolfgang Lutz. 2016. “Meeting the Sustainable Development Goals Leads to Lower World Population Growth.” Proceedings of the National Academy of Sciences 113 (50): 14294–99. https://doi.org/10.1073/pnas.1611386113.
-KC, Samir, and Wolfgang Lutz. 2017. “The Human Core of the Shared Socioeconomic Pathways: Population Scenarios by Age, Sex and Level of Education for All Countries to 2100.” Global Environmental Change 42 (January): 181–92. https://doi.org/10.1016/j.gloenvcha.2014.06.004.
-KC, Samir, Michaela Potančoková, Ramon Bauer, Anne Goujon, and Erich Striessnig. 2014. “Data and Methods.” In World Population and Human Capital in the 21st Century, edited by Wolfgang Lutz, William P Butz, and Samir KC, 434–518. Oxford: Oxford University Press. http://ukcatalogue.oup.com/product/9780198703167.do.
-KC, Samir, Markus Speringer, Anil Thapa, and Mukti Nath Khanal. 2016. “Projecting Nepal’s Demographic Future – How to Deal with Spatial and Demographic Heterogeneity?” IIASA Working Paper WP-16-021. Laxenburg, Austria: International Institute for Applied Systems Analysis (IIASA). http://pure.iiasa.ac.at/14029/1/WP-16-021.pdf.
-KC, Samir, Marcus Wurzer, Markus Speringer, and Wolfgang Lutz. 2018. “Future Population and Human Capital in Heterogeneous India.” Proceedings of the National Academy of Sciences 115 (33): 201722359. https://doi.org/10.1073/pnas.1722359115.
-Lutz, Wolfgang, and Samir Kc. 2011. “Global Human Capital: Integrating Education and Population.” Science 333 (6042): 587–92. https://doi.org/10.1126/science.1206964.
+
+1. Abel, Guy J., Bilal Barakat, Samir KC, and Wolfgang Lutz. 2016. “Meeting the Sustainable Development Goals Leads to Lower World Population Growth.” Proceedings of the National Academy of Sciences 113 (50): 14294–99. https://doi.org/10.1073/pnas.1611386113.
+2. KC, Samir, and Wolfgang Lutz. 2017. “The Human Core of the Shared Socioeconomic Pathways: Population Scenarios by Age, Sex and Level of Education for All Countries to 2100.” Global Environmental Change 42 (January): 181–92. https://doi.org/10.1016/j.gloenvcha.2014.06.004.
+3. KC, Samir, Michaela Potančoková, Ramon Bauer, Anne Goujon, and Erich Striessnig. 2014. “Data and Methods.” In World Population and Human Capital in the 21st Century, edited by Wolfgang Lutz, William P Butz, and Samir KC, 434–518. Oxford: Oxford University Press. http://ukcatalogue.oup.com/product/9780198703167.do.
+4. KC, Samir, Markus Speringer, Anil Thapa, and Mukti Nath Khanal. 2016. “Projecting Nepal’s Demographic Future – How to Deal with Spatial and Demographic Heterogeneity?” IIASA Working Paper WP-16-021. Laxenburg, Austria: International Institute for Applied Systems Analysis (IIASA). http://pure.iiasa.ac.at/14029/1/WP-16-021.pdf.
+5. KC, Samir, Marcus Wurzer, Markus Speringer, and Wolfgang Lutz. 2018. “Future Population and Human Capital in Heterogeneous India.” Proceedings of the National Academy of Sciences 115 (33): 201722359. https://doi.org/10.1073/pnas.1722359115.
+6. Lutz, Wolfgang, and Samir Kc. 2011. “Global Human Capital: Integrating Education and Population.” Science 333 (6042): 587–92. https://doi.org/10.1126/science.1206964.
 
  
 
